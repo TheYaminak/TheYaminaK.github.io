@@ -9,8 +9,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   $smtp = array(
     'host' => 'smtp-mail.outlook.com',
-    'username' => 'joasdiaz98@hotmail.com',
-    'password' => 'theyaminak98',
+    'username' => '',
+    'password' => '',
     'port' => 587,
   );
 
