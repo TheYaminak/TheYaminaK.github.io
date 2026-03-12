@@ -1188,3 +1188,11 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.about-description {
+  font-size: 1.1rem;
+  line-height: 1.9;
+  color: rgba(255, 255, 255, 0.85);
+  margin-top: 1.5rem;
+  text-align: justify;
+}
